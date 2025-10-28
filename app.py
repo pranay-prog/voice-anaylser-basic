@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import librosa
-import librosa.display-zzaaaa                                                                                                                                           
+import librosa.display                                                                                                                                           
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="AI Voice Mood Analyzer", page_icon="🎤", layout="wide")
